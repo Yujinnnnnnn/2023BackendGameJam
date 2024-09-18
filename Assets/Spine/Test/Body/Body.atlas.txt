@@ -1,0 +1,11 @@
+Body.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Skin_1/Body
+	bounds: 2, 47, 186, 174
+	offsets: 0, 1, 186, 175
+Skin_1/Tail
+	bounds: 2, 2, 43, 78
+	offsets: 0, 1, 43, 80
+	rotate: 90

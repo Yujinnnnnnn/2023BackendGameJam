@@ -1,0 +1,20 @@
+Cha_2.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Body
+	bounds: 2, 42, 129, 66
+Eye
+	bounds: 143, 162, 44, 21
+	offsets: 0, 0, 44, 22
+Face
+	bounds: 2, 110, 139, 127
+	offsets: 0, 1, 139, 128
+Hair
+	bounds: 2, 2, 37, 38
+	offsets: 0, 0, 37, 39
+Hand
+	bounds: 197, 210, 30, 27
+Mouth
+	bounds: 143, 185, 52, 52
+	offsets: 0, 0, 53, 52

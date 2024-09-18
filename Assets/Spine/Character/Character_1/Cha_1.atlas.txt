@@ -1,0 +1,24 @@
+Cha_1.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Body
+	bounds: 2, 78, 171, 165
+	offsets: 0, 1, 171, 166
+Eye
+	bounds: 175, 218, 42, 25
+	offsets: 1, 1, 43, 26
+Hair
+	bounds: 2, 2, 16, 21
+	offsets: 0, 0, 17, 22
+Mouth
+	bounds: 2, 25, 52, 51
+	offsets: 1, 0, 53, 51
+
+Cha_1_2.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Face
+	bounds: 2, 14, 139, 127
+	offsets: 0, 1, 139, 128

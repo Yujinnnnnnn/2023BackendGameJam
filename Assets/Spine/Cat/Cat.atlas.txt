@@ -1,0 +1,69 @@
+Cat.png
+	size: 512, 512
+	filter: Linear, Linear
+	pma: true
+Body/C_Cat
+	bounds: 2, 334, 186, 174
+	offsets: 0, 1, 186, 175
+Body/G_Cat
+	bounds: 2, 158, 186, 174
+	offsets: 0, 1, 186, 175
+Body/S_Cat
+	bounds: 190, 334, 186, 174
+	offsets: 0, 1, 186, 175
+Body/W_Cat
+	bounds: 190, 158, 186, 174
+	offsets: 0, 1, 186, 175
+Common/Beaksedge
+	bounds: 480, 483, 20, 25
+	offsets: 0, 0, 20, 26
+Common/Eyelid
+	bounds: 378, 160, 56, 43
+	offsets: 0, 0, 59, 43
+Eye/Eye_Black
+	bounds: 161, 96, 59, 60
+Eye/Eye_Blue
+	bounds: 222, 96, 59, 60
+Eye/Eye_Green
+	bounds: 283, 96, 59, 60
+Eye/Eye_Violet
+	bounds: 378, 205, 59, 60
+Mouth/Mouth
+	bounds: 2, 2, 22, 14
+Tail/C_Tail_1
+	bounds: 378, 347, 43, 78
+	offsets: 0, 1, 43, 80
+Tail/C_Tail_2
+	bounds: 2, 75, 55, 81
+	offsets: 0, 1, 55, 82
+Tail/C_Tail_3
+	bounds: 344, 108, 48, 48
+	offsets: 1, 0, 49, 49
+Tail/G_Tail_1
+	bounds: 435, 430, 43, 78
+	offsets: 0, 1, 43, 80
+Tail/G_Tail_2
+	bounds: 378, 427, 55, 81
+	offsets: 0, 1, 55, 82
+Tail/G_Tail_3
+	bounds: 394, 110, 48, 48
+	offsets: 1, 0, 49, 49
+Tail/S_Tail_1
+	bounds: 116, 78, 43, 78
+	offsets: 0, 1, 43, 80
+Tail/S_Tail_2
+	bounds: 59, 75, 55, 81
+	offsets: 0, 1, 55, 82
+Tail/S_Tail_3
+	bounds: 85, 25, 48, 48
+	offsets: 1, 0, 49, 49
+Tail/W_Tail
+	bounds: 378, 267, 43, 78
+	offsets: 0, 1, 43, 80
+Tail/W_Tail_2
+	bounds: 2, 18, 55, 81
+	offsets: 0, 1, 55, 82
+	rotate: 90
+Tail/W_Tail_3
+	bounds: 135, 28, 48, 48
+	offsets: 1, 0, 49, 49

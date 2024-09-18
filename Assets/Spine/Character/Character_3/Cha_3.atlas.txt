@@ -1,0 +1,22 @@
+Cha_3.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Back_Hair
+	bounds: 162, 90, 161, 54
+	offsets: 0, 1, 161, 55
+	rotate: 90
+Body
+	bounds: 143, 8, 108, 80
+Eye copy
+	bounds: 218, 207, 44, 21
+	offsets: 0, 0, 44, 22
+	rotate: 90
+Face
+	bounds: 2, 3, 139, 127
+	offsets: 0, 1, 139, 128
+Hair
+	bounds: 2, 132, 158, 119
+	offsets: 0, 1, 158, 121
+Mouth
+	bounds: 143, 117, 17, 13

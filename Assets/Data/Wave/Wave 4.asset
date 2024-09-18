@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43b780fbbd5adcb4a8f58ac88464bd9c, type: 3}
+  m_Name: Wave 4
+  m_EditorClassIdentifier: 
+  Index: 4
+  Time: 30
+  HumanSpeed: 4
+  HumanTurnCoolingTime: 0.5
+  HumanMaxDistance: 5
+  SpawnItemCount: 15
+  ItemDatas:
+  - {fileID: 11400000, guid: 87c17b09c516368498c982ba59b604b3, type: 2}
+  - {fileID: 11400000, guid: 1db3ef561997cbc46a3fe0ec61644856, type: 2}
+  - {fileID: 11400000, guid: be08f7760324bdd4bad0178a05a4aa5b, type: 2}
+  ItemPers: 320000003200000032000000
+  EnemyItemCount: 13
+  EnemyDatas:
+  - {fileID: 11400000, guid: 5c6b0bb835ac274479c45d10e3650c43, type: 2}
+  - {fileID: 11400000, guid: 7548fb1c9142f9344a03ee91659b70d0, type: 2}
+  - {fileID: 11400000, guid: f3d7b589f6054204ca49ce0a2de36793, type: 2}
+  EnemyPers: 320000003200000032000000

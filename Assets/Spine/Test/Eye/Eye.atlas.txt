@@ -1,0 +1,13 @@
+Eye.png
+	size: 128, 128
+	filter: Linear, Linear
+	pma: true
+Skin_1/Eye_L
+	bounds: 2, 64, 59, 60
+Skin_1/Eye_R
+	bounds: 2, 64, 59, 60
+Skin_1/Eyelid
+	bounds: 63, 81, 56, 43
+	offsets: 0, 0, 59, 43
+Skin_2/Eye_R
+	bounds: 2, 2, 59, 60

@@ -1,0 +1,32 @@
+Cha_5.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Back_Hair
+	bounds: 2, 82, 173, 163
+	offsets: 0, 0, 173, 164
+Bag
+	bounds: 2, 2, 59, 78
+	offsets: 1, 0, 60, 78
+Eye
+	bounds: 177, 222, 44, 23
+Mouth
+	bounds: 63, 67, 17, 13
+
+Cha_5_2.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Body
+	bounds: 2, 2, 109, 88
+Hair
+	bounds: 2, 92, 148, 161
+	offsets: 0, 1, 148, 162
+
+Cha_5_3.png
+	size: 256, 256
+	filter: Linear, Linear
+	pma: true
+Face
+	bounds: 2, 14, 139, 127
+	offsets: 0, 1, 139, 128
